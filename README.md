@@ -28,7 +28,7 @@ RegisterForm - регистрация
 TourForm - управление турами
 ClientForm - управление клиентами
 
-⚙️ Функционал классов
+ Функционал классов
 DatabaseHelper
 Подключение к PostgreSQL
 
